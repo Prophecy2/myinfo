@@ -1,6 +1,6 @@
-- 👋 Hi! I’m Prophecy.
+- 👋 Hi! I’m 忆昔以西.
 - 📫 Ask me about anything [HERE](https://github.com/Prophecy2/myinfo/issues) or 酷安@忆昔以西.
-- ⚡ Sorry for bad English! (′へ`、 )
+- 😴 Always lacking time to sleep...
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
